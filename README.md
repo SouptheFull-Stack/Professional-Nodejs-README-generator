@@ -19,6 +19,8 @@ This uses Node.Js, so you will need to download it via this link. https://nodejs
 3. Install the inquirer dependency for version 8.2.4: npm install inquirer@8.2.4
 
 ## Usage
+Below is a video tutorial of the application usage.
+https://www.youtube.com/watch?v=mG6QVytfYf4
 Once you have installed all programs and dependencies, you just need to navigate to the root directory in your terminal again, and initialise it with: node 'filename'.js.
 In this instance, I have named my file index.js, so my command would be: node index.js.
 Once you complete the prompts provided, if successful, it will generate a README.md within the same directory.
