@@ -1,58 +1,9 @@
-#
-
-## Badges
-
-https://img.shields.io/badge/license-MIT-cyan
-
-## Description
-
-<<<<<<< HEAD
-=======
 # Professional README Generator 
         
 ## Description 
 This is a project designed to become a tool for future projects, where a formatted README is created and formatted with your input.
 This will make for a much faster creation of READMEs and can allow developers to not waste time on it and instead spend their time on their actual programs.
-        
->>>>>>> bd94ba0319b2147ebb9e6d7f69cbefc85dce7bbc
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-<<<<<<< HEAD
-- [Questions](#questions)
-- [Contributions](#contributions)
-- [Tests](#tests)
-
-## Installation
-
-## Usage
-
-## Credits
-
-## License
-
-MIT
-
-## Questions
-
-Feel free to contact me for enquiries via the platforms below:
-GitHub Username:
-Github Profile:
-Email:
-
-## Contributions
-
-// You can contribute via issues on my GitHub project repository which you can access in the Questions section.
-
-## Tests
-
-// An internal test has already been implemented in an error callback function as part of the writeFile method.
-=======
-- [Badges](#badges)
-
+    
 ## Installation
 This uses Node.Js, so you will need to download it via this link. https://nodejs.org/en/download
 1. Once you have Node, navigate to the root directory of this application in your terminal (I personally use VScode and copy the file path).
@@ -84,5 +35,3 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## Badges
 License used
 https://img.shields.io/badge/license-MIT-cyan
-
->>>>>>> bd94ba0319b2147ebb9e6d7f69cbefc85dce7bbc
